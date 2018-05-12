@@ -1,0 +1,39 @@
+_repo: Tell-EnglandA-Study-in-a-Generation_15033
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Raymond, Ernest
+    birthdate: 1888
+    deathdate: 1974
+    gutenberg_agent_id: '5806'
+    url: http://www.gutenberg.org/2009/agents/5806
+description: "Tell England: A Study in a Generation is a novel written by Ernest Raymond\
+  \ and published in February 1922 in the United Kingdom. Its themes are the First\
+  \ World War and the young men sent to fight in it. A film adaptation was released\
+  \ in 1931 under the title Tell England. The book became a bestseller, some 300,000\
+  \ copies being sold by the end of 1939. Forty editions were printed by Cassell between\
+  \ 1922 and 1969, prior to the first impression printed by Corgi in 1973.\n\n\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2005-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15033'
+  lccn: '22025805'
+  wikidata: Q7697394
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PR'
+title: 'Tell England
+
+  A Study in a Generation'
+url: http://www.gutenberg.org/ebooks/15033
+wikipedia:
+- https://en.wikipedia.org/wiki/Tell_England
