@@ -17,6 +17,8 @@ description: "Tell England: A Study in a Generation is a novel written by Ernest
   \ copies being sold by the end of 1939. Forty editions were printed by Cassell between\
   \ 1922 and 1969, prior to the first impression printed by Corgi in 1973.\n\n\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15033#Tell-EnglandA-Study-in-a-Generation
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2005-02-13'
 gutenberg_type: Text
